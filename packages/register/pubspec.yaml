@@ -4,7 +4,8 @@ version: 1.0.1
 homepage: https://github.com/ScerIO/packages.dart/tree/master/packages/register
 
 environment:
-  sdk: '>=2.14.0 <3.0.0'
+  sdk: '>=3.0.1 <4.0.0'
+  flutter: 3.19.1
 
 dependencies:
   quiver: ^3.1.0

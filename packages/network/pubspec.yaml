@@ -4,10 +4,11 @@ version: 1.0.0
 homepage: https://github.com/ScerIO/packages.dart/tree/master/packages/network
 
 environment:
-  sdk: '>=2.14.0 <3.0.0'
+  sdk: '>=3.0.1 <4.0.0'
+  flutter: 3.19.1
 
 dependencies:
-  http: ^0.13.4
+  http: ^1.1.0
 
 dev_dependencies:
   test: ^1.21.1
